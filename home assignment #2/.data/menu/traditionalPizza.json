@@ -1,0 +1,13 @@
+[{
+  'name':'Traditional Pizza',
+  'price':7.99,
+  'size':'S'
+},{
+  'name':'Traditional Pizza',
+  'price':17.99,
+  'size':'M'
+},{
+  'name':'Traditional Pizza',
+  'price':27.99,
+  'size':'L'
+}]

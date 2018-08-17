@@ -1,0 +1,13 @@
+[{
+  'name':'Vegetarian Pizza',
+  'price':12.99,
+  'size':'S'
+},{
+  'name':'Vegetarian Pizza',
+  'price':22.99,
+  'size':'M'
+},{
+  'name':'Vegetarian Pizza',
+  'price':32.99,
+  'size':'L'
+}]

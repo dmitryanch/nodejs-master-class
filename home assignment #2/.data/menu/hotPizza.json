@@ -1,0 +1,13 @@
+[{
+  'name':'Hot Pizza',
+  'price':9.99,
+  'size':'S'
+},{
+  'name':'Hot Pizza',
+  'price':19.99,
+  'size':'M'
+},{
+  'name':'Hot Pizza',
+  'price':29.99,
+  'size':'L'
+}]

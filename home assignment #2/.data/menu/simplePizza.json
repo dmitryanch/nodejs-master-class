@@ -1,0 +1,13 @@
+[{
+  'name':'Simple Pizza',
+  'price':10.99,
+  'size':'S'
+},{
+  'name':'Simple Pizza',
+  'price':20.99,
+  'size':'M'
+},{
+  'name':'Simple Pizza',
+  'price':30.99,
+  'size':'L'
+}]
